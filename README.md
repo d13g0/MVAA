@@ -10,12 +10,12 @@ MVAA is a tool to create multivariate asymmetry brain maps.
     
     numpy    : http://www.numpy.org/ 
     
-    pynifty  : http://niftilib.sourceforge.net/pynifti/
+    PyNifti  : http://niftilib.sourceforge.net/pynifti/
    
-    pycuda   : http://mathema.tician.de/software/pycuda/
+    PyCuda   : http://mathema.tician.de/software/pycuda/
 
 
-* **CPU is optional**: the code is designed to run using CUDA (through PyCuda). However if you don't have a GPU, you can still run the CPU version (way slower.. go for a coffee...)
+* **CPU is optional**: the code is designed to run using CUDA (through PyCuda). However if you don't have a GPU, you can still run the CPU version (way slower.. go for a coffee...). However, I recommend you to install CUDA in your machine, then PyCuda.
 
 ## Usage
 
