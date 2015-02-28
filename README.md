@@ -4,7 +4,7 @@ MVAA is a tool to create multivariate asymmetry brain maps.
 
 ## pre-requisites
 
-* **You need two images**: the unflipped (u) and the flipped (f). These images must be Ideally you want these images to be registered to a symmetric brain template so you can obtain a near-voxel correspondance. However, if the images are not registered, the script will still run as long as they have the same spatial dimensions.
+* **You need two images**: the unflipped (u) and the flipped (f). These images must be in NIFTI format. Ideally you want these images to be registered to a symmetric brain template so you can obtain a near-voxel correspondance. However, if the images are not registered, the script will still run as long as they have the same spatial dimensions.
 
 * **Python dependencies**: 
     
